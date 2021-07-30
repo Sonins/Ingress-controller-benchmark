@@ -43,7 +43,3 @@ services:
       nofile:
         soft: "65536"
         hard: "65536"
-    extra_hosts:
-      - "nginx.k8s.com:172.26.50.212"
-      - "haproxy.k8s.com:172.26.50.210"
-      - "istio.k8s.com:172.26.50.213"
