@@ -27,6 +27,8 @@ sh uninstall.sh
 ## Result
 ```
 # Benchmark with nginx server, 3000 VUs, 3m duration.
+# All ingress controller has 1 pod. No HPA.
+# Pod memory is 2Gi. CPU is 200m, 500m, each.
 
 # Command:
 sh shell/benchmark.sh nginx 3000 3m
