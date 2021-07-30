@@ -1,5 +1,7 @@
 # Ingress Controller benchmark
 
+## Prerequiste
+```Docker```
 ## setup
 ```
 sudo sh setup.sh
