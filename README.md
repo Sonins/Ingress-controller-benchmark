@@ -9,7 +9,6 @@ sudo sh setup.sh
 ---
 ## benchmark
 benchmark 폴더에서 돌려야 합니다.  
-Ingress controller - service ip는 직접 매핑해줘야 합니다 (i.e. /etc/hosts)
 ### load test
 ```
 sh shell/benchmark.sh 
