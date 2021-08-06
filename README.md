@@ -8,7 +8,7 @@ sudo sh setup.sh
 ```
 ---
 ## benchmark
-benchmark 폴더에서 돌려야 합니다.  
+Need to run in repo root.
 ### load test
 ```
 sh shell/benchmark.sh 
