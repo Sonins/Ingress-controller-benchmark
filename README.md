@@ -1,7 +1,7 @@
 # Ingress Controller benchmark
 
-## Prerequiste
-```Docker```
+## Prerequisite
+`Docker` `Kubernetes Cluster`
 ## setup
 ```
 sudo sh setup.sh
