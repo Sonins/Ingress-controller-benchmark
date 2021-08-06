@@ -6,7 +6,8 @@
 ```
 sudo sh setup.sh
 ```
----
+## Why sudo?    
+Because setup.sh modified /etc/hosts file, to register hostname and IP of ingress gateway.
 ## benchmark
 Need to run in repo root.
 ### load test
